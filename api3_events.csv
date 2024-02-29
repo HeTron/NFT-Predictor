@@ -1,51 +1,279 @@
-event_type,order_hash,order_type,chain,protocol_address,start_date,expiration_date,quantity,maker,taker,event_timestamp,is_private_listing,asset_identifier,asset_collection,asset_contract,asset_token_standard,asset_name,asset_description,asset_image_url,asset_metadata_url,asset_opensea_url,asset_updated_at,asset_is_disabled,asset_is_nsfw,payment_quantity,payment_token_address,payment_decimals,payment_symbol
-order,0x2772dfdb721cdc122db5d743405c3fd6c084960112e46591eb7341d3d2fed7e5,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141707,1709142907,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141707,False,5016,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmdJRBMzE7G7PdpqWwDi1uCjoatPDpJrpAWmN5AuDYRMQG,https://boredapeyachtclub.com/api/mutants/5016,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/5016,2024-01-23T21:31:36.267108,False,False,4370000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x4da0ed6ea8932f105d0653fb3fac27c63c5787e90364df959b3bb82af0658ba7,collection_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141706,1709142366,1,0x3e316f6abe52fc5cf70a6c9c0932dcb1fcbf3d62,,1709141707,False,,,,,,,,,,,,,3949100000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x803dfa80e2e27ad71246b7432c98bbe0a38e32fb48ddd8b0072e836566bf98a7,collection_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141705,1709142305,1,0xdb29d2348cc5d72b1cef999e8d0c75d08368fd01,,1709141707,False,,,,,,,,,,,,,3949100000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x7ed4ddef005def4499b45c387fbfa35bdb4514ad79671868e55d2fc2b7da1b34,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141707,1709142907,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141707,False,21605,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmanBcWfkoxa1gj3UhACB1X5L41iGBDAfa64vfW8hhKyhQ,https://boredapeyachtclub.com/api/mutants/21605,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/21605,2024-01-23T21:33:27.250775,False,False,4536800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x765bbb50eebcc0bd2bfac343217c9e77022c2203c762006207f36a0f3ef9d15f,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141707,1709142907,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141707,False,21485,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/Qmauv5AtBeHc45NETgeWaMEEUh4TCa4AipdrV4yEGDa7Wf,https://boredapeyachtclub.com/api/mutants/21485,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/21485,2024-01-23T21:33:28.438812,False,False,6805600000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x536cc879a7a616c1af5c88f41c4591f08c9049bb430d49c0347999f2a2b80425,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141707,1709142907,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141707,False,17499,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmQ4BHNhhzR8bQWL17PmXFQaicX7RzGtSn2uVAFg1CUpfu,https://boredapeyachtclub.com/api/mutants/17499,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/17499,2024-01-23T21:33:00.400075,False,False,7064800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0xbd33d226bea7e6a076ec35b3da9feaa72d25c330e8615cff88ee120a6f4a436a,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141702,1709142900,1,0x0097b9cfe64455eed479292671a1121f502bc954,,1709141707,False,5016,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmdJRBMzE7G7PdpqWwDi1uCjoatPDpJrpAWmN5AuDYRMQG,https://boredapeyachtclub.com/api/mutants/5016,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/5016,2024-01-23T21:31:36.267108,False,False,4360000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x7f7b697341eea801cfcf151601486986c2b52be16b9b4171b007eb3809e884e5,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141706,1709142906,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141707,False,274,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmZtj9iuFvyEKkxq5ygoXyMsZctT5mC8rbYeAbmiZvkLaU,https://boredapeyachtclub.com/api/mutants/274,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/274,2024-01-23T21:30:46.066849,False,False,4410000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x9d28d5ff87e4665bb206779955323e4f5752858230d3e083be17089314436547,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141703,1709142902,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141706,False,1753,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmPaHeRDbsaQLFYPYqydEPQA1yMeauoBHKJZJC8fX3AoRj,https://boredapeyachtclub.com/api/mutants/1753,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/1753,2024-01-23T21:31:01.722578,False,False,3958000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x1967794f07ecc6d87e92b3d9b434479de7f1bc828e53a75701fe5171077d7057,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141706,1709142906,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141706,False,22919,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmZXQpPtQ2AXaZmrAAhFHFX7PXRUKQaKSv3Y9ZtojYG42n,https://boredapeyachtclub.com/api/mutants/22919,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/22919,2024-01-23T21:33:19.790200,False,False,4210000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x6f33ffd913937a0724cad1156755994357f882949dac3da4045efc6d7149c268,trait_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141704,1709142364,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141706,False,,,,,,,,,,,,,4100000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x387cc677d6cbcd053d73fce2255bcfd3bebc43bb9dcabbe1f1fab67adc188589,trait_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141704,1709142364,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141706,False,,,,,,,,,,,,,4100000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0xb47dedf4bfa1ef0da44ad0beb966958f5b35bbdb2f42bc7f34e205698b9ad039,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141705,1709142905,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141706,False,20625,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmP3FkDy77oAU2mK5hp14PFLJXEBcaLLXzhrGFBxjUHboR,https://boredapeyachtclub.com/api/mutants/20625,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/20625,2024-01-23T21:33:20.124278,False,False,4210000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x7c2a1803a74c038bf01bc04c17379dedc9d4aa0260b275822f1e1465acfb4a68,trait_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141704,1709142364,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141705,False,,,,,,,,,,,,,4100000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0xa45e25e7ad2e24d6b02ea46f35ffa56509a33ff3b555216d97822b26d2cc80f0,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141704,1709142904,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141705,False,17727,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmTC2NaYgZRdFpkuoR11ZWEakaX4GKbXUou6p6P8pzxZiV,https://boredapeyachtclub.com/api/mutants/17727,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/17727,2024-01-23T21:32:31.716597,False,False,7304000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x7d9e9cc6610a84445b75dc000e33b156a7df3da1c5ec1823f42489de2958928d,collection_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141703,1709142303,1,0xdb29d2348cc5d72b1cef999e8d0c75d08368fd01,,1709141705,False,,,,,,,,,,,,,3948100000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x2d30ddec6654befca264c78d8a01a2c7cce35d2e50e0dc8ad27493edb2facf40,trait_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141704,1709142364,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141705,False,,,,,,,,,,,,,4100000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0xe56c13c1a39cc49cdcc30259e9bcd3fb6afda1315e3be2d242ef96dd5c13789b,trait_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141704,1709142364,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141705,False,,,,,,,,,,,,,3958000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x86d2f561223d039f1d150b3d66c4d8c5a4d365d7096c53c32aea4b717bd5c13a,trait_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141703,1709142363,1,0x6701d0dd7d2a0a0d84a088620583f82723c518aa,,1709141705,False,,,,,,,,,,,,,3948000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x4e88aaa66025d55da30dedc782422bb3fc2759489acc24c5ff450eb24dc2885b,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141704,1709142604,1,0x48aabab1e5224540dfd31e48ded0ba6725185c93,,1709141705,False,21485,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/Qmauv5AtBeHc45NETgeWaMEEUh4TCa4AipdrV4yEGDa7Wf,https://boredapeyachtclub.com/api/mutants/21485,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/21485,2024-01-23T21:33:28.438812,False,False,6775600000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x803154c62e0f19149a181c7c745618ab8824c759e4253d8f59c856a65820179b,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141705,1709142905,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141705,False,21907,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmXbNqbvA1wrP5F91VGfxqJWB6A6L5Rm5TVqixwaXR7hfk,https://boredapeyachtclub.com/api/mutants/21907,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/21907,2024-01-23T21:33:15.295831,False,False,7090400000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x18220cf1f2fa7c53f05dd72521c4688a99bc88e8ca67b1409099e3de2497b5af,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141705,1709142905,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141705,False,20467,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmVFzrftZWJdcbuNzwENpHtKdQDBAVfpbFXkXypZvoQHPi,https://boredapeyachtclub.com/api/mutants/20467,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/20467,2024-01-23T21:33:06.754199,False,False,4598400000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0xfd85457d41e2718f7f0608f1ce45b5e0087764108c554ce94701d00df1c8575b,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141705,1709142905,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141705,False,27329,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmdZ1y9uarM41P9f4hNXzieWRKBBWGqnrnyLyhSFq8Fg2P,https://boredapeyachtclub.com/api/mutants/27329,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/27329,2024-01-23T21:32:49.810475,False,False,5452800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0xb2dd611f1dea5bee0312dff62147bec22e3f40ef3c9b94c3cfeb35ffd0fb64d4,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141704,1709142604,1,0xa64c97e0dafd49012f73392fb34af1df7aa2f995,,1709141705,False,21605,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmanBcWfkoxa1gj3UhACB1X5L41iGBDAfa64vfW8hhKyhQ,https://boredapeyachtclub.com/api/mutants/21605,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/21605,2024-01-23T21:33:27.250775,False,False,4526800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x48ea1886ff36508983b2ea591334dd0eb30621770b863267d5f65f968fd4a19a,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141704,1709142604,1,0xb7369571488a0d88ebbd7b327c47315ce3e697a1,,1709141705,False,17499,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmQ4BHNhhzR8bQWL17PmXFQaicX7RzGtSn2uVAFg1CUpfu,https://boredapeyachtclub.com/api/mutants/17499,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/17499,2024-01-23T21:33:00.400075,False,False,7034800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0xa13c82aa1f9fd8d26bcdadaab920e8b103875b76df5ceb939dfc0ff554f5a467,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141704,1709142904,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141705,False,25055,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmTp5daZSmLZcKZ5Tz1FeVjMWxd1q3bXTNbWg6cxdBjbQV,https://boredapeyachtclub.com/api/mutants/25055,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/25055,2024-01-23T21:33:49.041305,False,False,4384800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x518ef5a0c178d1e20ad27d80824a8c9e1a738b706f4c2b281e2eab6e545f7306,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141703,1709142603,1,0x66233c756410b1477033d39557f551c87f2dc4ca,,1709141704,False,27329,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmdZ1y9uarM41P9f4hNXzieWRKBBWGqnrnyLyhSFq8Fg2P,https://boredapeyachtclub.com/api/mutants/27329,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/27329,2024-01-23T21:32:49.810475,False,False,5422800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x5ff2758e6beb5eed6535ccd3328ed8c9a46df1d4902d9eadddcd14d29541694f,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141704,1709142904,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141704,False,27635,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmTtSKbrwDynT4u6LbHvQKoNWgNFjeXnq2xBisNJTgbPXJ,https://boredapeyachtclub.com/api/mutants/27635,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/27635,2024-01-23T21:33:06.856599,False,False,5452800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0xac4b244d9e18e6bc76b6dae6eea60d150688414a0ad9cf650b498b53daccb9e7,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141703,1709142603,1,0x672a5f9e70d865000a59f25dcd73dceb69b42d40,,1709141704,False,20467,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmVFzrftZWJdcbuNzwENpHtKdQDBAVfpbFXkXypZvoQHPi,https://boredapeyachtclub.com/api/mutants/20467,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/20467,2024-01-23T21:33:06.754199,False,False,4568400000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x380e925b1460a1d4ceae1e6cbd71b32234c3568a837ffde4d2737aa9f5929a0e,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141703,1709142603,1,0x48aabab1e5224540dfd31e48ded0ba6725185c93,,1709141704,False,21907,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmXbNqbvA1wrP5F91VGfxqJWB6A6L5Rm5TVqixwaXR7hfk,https://boredapeyachtclub.com/api/mutants/21907,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/21907,2024-01-23T21:33:15.295831,False,False,7060400000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x1d9525672b0f29c8c110324120bacf9116bc3febc7ba4a18ea76abc8be53a99d,trait_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141703,1709142363,1,0x6701d0dd7d2a0a0d84a088620583f82723c518aa,,1709141704,False,,,,,,,,,,,,,3948000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x62ccebc033fce80c8914bcc6d5e120f2ab7dae6017ba7e791692561225793dd9,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141704,1709142904,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141704,False,19229,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmPZYon3GG9WWgszE3xjZZLUsoaDhtd66SsPc7FwFdE3Yc,https://boredapeyachtclub.com/api/mutants/19229,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/19229,2024-01-23T21:32:44.716722,False,False,4669600000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x5afd65aa1c4d76059cfc297d203ad28e6afc1d745d641b4e47e305ec078350f4,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141704,1709142904,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141704,False,10379,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmXAEBXXC4BjjsDTDpRsgXe8QoYjWTx7u82MNFZ4YAfFH4,https://boredapeyachtclub.com/api/mutants/10379,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/10379,2024-01-31T04:08:52.960408,False,False,4210000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0xfe1e80bcc3dafd9a668fe92bbb1743ff9b4936120287f983f36fc5b583c81d0c,collection_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141704,1709142364,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141704,False,,,,,,,,,,,,,3949000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x1179eb1de1641b1de50b9621d19e36ebfa7e8ff5291abc151a54e616d5ccc113,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141703,1709142603,1,0xa64c97e0dafd49012f73392fb34af1df7aa2f995,,1709141704,False,25055,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmTp5daZSmLZcKZ5Tz1FeVjMWxd1q3bXTNbWg6cxdBjbQV,https://boredapeyachtclub.com/api/mutants/25055,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/25055,2024-01-23T21:33:49.041305,False,False,4354800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0xdfe6ccfb0f3e783fd83d2113003fb820483cb4a37142a9b4fedf8c3c5632675b,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141704,1709142904,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141704,False,23355,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/Qmaj4FSYac6j5Fv58q6isUXmTCz6dDGJsKVJAThpJJTbey,https://boredapeyachtclub.com/api/mutants/23355,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/23355,2024-01-23T21:33:29.579081,False,False,4356000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0xd2335004b012750537c07dfb410c6ba6c193094285c5b2ca77b7c655d10729a4,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141703,1709142603,1,0xb7369571488a0d88ebbd7b327c47315ce3e697a1,,1709141704,False,17727,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmTC2NaYgZRdFpkuoR11ZWEakaX4GKbXUou6p6P8pzxZiV,https://boredapeyachtclub.com/api/mutants/17727,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/17727,2024-01-23T21:32:31.716597,False,False,7274000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0xddab957d502bd38d4c654a623b7b0195617769ef00406f613fd927acc4f73a80,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141704,1709142904,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141704,False,22777,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmQJdVbn9MbbzAdeSpG1t2YYUWnLcWTRQRoQN5fz8AcXR8,https://boredapeyachtclub.com/api/mutants/22777,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/22777,2024-01-23T21:33:39.616488,False,False,7375200000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0xe4c8f84ae60c53cad9097cc382716a24884eb6cc3a3f8243151c6c588e468d7a,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141703,1709142903,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141704,False,8220,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmYBJUNLWsECHMw3q3jtYww96dRLqLXQK9caWmN2pRS2s6,https://boredapeyachtclub.com/api/mutants/8220,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/8220,2024-01-23T21:32:10.782887,False,False,4210000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x426b8ffd335ea70ff72dfbd30e16b7bdc18d794053ead4d650722d6c04d60ee0,collection_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141702,1709142302,1,0xdb29d2348cc5d72b1cef999e8d0c75d08368fd01,,1709141703,False,,,,,,,,,,,,,3948000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x114d6a9c496289f2c6fcb378502981d67fdebcaa7d26710be7665ab417ab6fa4,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141703,1709142903,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141703,False,5355,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmWQAsV6LPeAp5UFxSYuWAbXxvzGgCmjbGfCTYco7GicvA,https://boredapeyachtclub.com/api/mutants/5355,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/5355,2024-01-23T21:31:40.142457,False,False,7232800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0xc8b52d1c5e371336437777af97fdceeb77bacfa6394a65e466dde5699b3fc8a9,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141702,1709142602,1,0x48aabab1e5224540dfd31e48ded0ba6725185c93,,1709141703,False,27635,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmTtSKbrwDynT4u6LbHvQKoNWgNFjeXnq2xBisNJTgbPXJ,https://boredapeyachtclub.com/api/mutants/27635,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/27635,2024-01-23T21:33:06.856599,False,False,5422800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0xdfb39ed5d044f2fd7064b3e5d7dbc08cc56b1b9f8001203dab86c17f25e7957d,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141702,1709142602,1,0x672a5f9e70d865000a59f25dcd73dceb69b42d40,,1709141703,False,19229,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmPZYon3GG9WWgszE3xjZZLUsoaDhtd66SsPc7FwFdE3Yc,https://boredapeyachtclub.com/api/mutants/19229,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/19229,2024-01-23T21:32:44.716722,False,False,4639600000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0xe581a35bc0dbfbed3ccbf43ac4e49a87291877cfc84ac2447e04e4ad00589662,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141703,1709142903,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141703,False,19799,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmTGHs2zBQirTYCib9xPEVjcvbX8uhxAp8wXh22ugKLj5Q,https://boredapeyachtclub.com/api/mutants/19799,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/19799,2024-01-23T21:33:22.566224,False,False,4536800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x6151b25e7bb98e1dfa8cb0c18e5179738b9f483709f95b734275ee43d7b0a87d,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141702,1709142602,1,0x66233c756410b1477033d39557f551c87f2dc4ca,,1709141703,False,23355,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/Qmaj4FSYac6j5Fv58q6isUXmTCz6dDGJsKVJAThpJJTbey,https://boredapeyachtclub.com/api/mutants/23355,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/23355,2024-01-23T21:33:29.579081,False,False,4326000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x0f174ece9766c041798f63fbecaa6ac81e4969765f8440b3196ac458923c31b8,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141702,1709142602,1,0xb7369571488a0d88ebbd7b327c47315ce3e697a1,,1709141703,False,22777,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmQJdVbn9MbbzAdeSpG1t2YYUWnLcWTRQRoQN5fz8AcXR8,https://boredapeyachtclub.com/api/mutants/22777,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/22777,2024-01-23T21:33:39.616488,False,False,7345200000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0xa21a966169a0920d7b6059468ee2accbaca41e45a8f4ea82d651b8decee8b5d1,collection_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141701,1709142361,1,0x3e316f6abe52fc5cf70a6c9c0932dcb1fcbf3d62,,1709141703,False,,,,,,,,,,,,,3948000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0xe0a37207e1ac210f93a8f7d383220840f86255ef80c945f33204867f3fce7d30,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141702,1709142302,1,0x11527f53ec4fbd150367bfcac92326ef61538612,,1709141703,False,23626,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmcWxmn3doW9Ubd1hHWd88o3RPJygHNNHHzFRzZ5sVankL,https://boredapeyachtclub.com/api/mutants/23626,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/23626,2024-01-23T21:33:03.634345,False,False,3959800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0x05854ee02ab93f185fbc3685a0283b58226e72ce037943435ae006c8b18572aa,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141702,1709142602,1,0x672a5f9e70d865000a59f25dcd73dceb69b42d40,,1709141703,False,19799,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmTGHs2zBQirTYCib9xPEVjcvbX8uhxAp8wXh22ugKLj5Q,https://boredapeyachtclub.com/api/mutants/19799,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/19799,2024-01-23T21:33:22.566224,False,False,4526800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
-order,0xeb6dca68fbb7ba0e349d4fda4a57201973c124e1e70796489e064ba8e0916512,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709141702,1709142602,1,0x48aabab1e5224540dfd31e48ded0ba6725185c93,,1709141703,False,5355,mutant-ape-yacht-club,0x60e4d786628fea6478f785a6d7e704777c86a7c6,erc721,,,https://ipfs.io/ipfs/QmWQAsV6LPeAp5UFxSYuWAbXxvzGgCmjbGfCTYco7GicvA,https://boredapeyachtclub.com/api/mutants/5355,https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/5355,2024-01-23T21:31:40.142457,False,False,7202800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH
+event_type,order_hash,order_type,chain,protocol_address,start_date,expiration_date,quantity,maker,taker,event_timestamp,is_private_listing,payment_quantity,payment_token_address,payment_decimals,payment_symbol,asset_identifier,asset_collection,asset_contract,asset_token_standard,asset_name,asset_description,asset_image_url,asset_metadata_url,asset_opensea_url,asset_updated_at,asset_is_disabled,asset_is_nsfw
+order,0xee450499348f8ce7cb4b1830ebc7c89d6f246192c5b76bbb1f20425543a0c47f,trait_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171238,1709171898,1,0xdf081666b112c0fac2def42b55a474baa07c7d35,,1709171239,False,1240800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,,,,,,,,,,,,
+order,0x5398b7f831b4e7ad13d2f1257d62f8e4ba89e34d43bdeaee00c03fd05650be76,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171237,1709173938,1,0x0f006581eb201aa7352c1b24cf1bf8a70aa2ae3d,,1709171238,False,1150000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,5161,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #12739,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone without any Murakami trait please read the terms regarding RTFKT - Owned Content here: https://rtfkt.com/legal-2A
+
+You are also entitled to a commercial license, please read the terms to that here: https://rtfkt.com/legal-2C",https://clonex-assets.rtfkt.com/images/5161.png,https://clonex-assets.rtfkt.com/5161,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/5161,2022-12-15T05:14:42.816864,False,False
+order,0x348e61a5b003692e32329b448127025120609a2150120beefa36da29d2b84dc1,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171237,1709173937,1,0x0f006581eb201aa7352c1b24cf1bf8a70aa2ae3d,,1709171238,False,1150000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,14664,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #19868,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone without any Murakami trait please read the terms regarding RTFKT - Owned Content here: https://rtfkt.com/legal-2A
+
+You are also entitled to a commercial license, please read the terms to that here: https://rtfkt.com/legal-2C",https://clonex-assets.rtfkt.com/images/14664.png,https://clonex-assets.rtfkt.com/14664,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/14664,2022-12-15T05:16:32.659266,False,False
+order,0xb8aa80258051148fdf13d608f50c2c570a06569f8fc274f28260e61c1eecdb02,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171230,1709172428,1,0x038b97d549bf4d3cfa4e116a7f6ed257249001c5,,1709171237,False,3199800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,1708,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #10275,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone without any Murakami trait please read the terms regarding RTFKT - Owned Content here: https://rtfkt.com/legal-2A
+
+You are also entitled to a commercial license, please read the terms to that here: https://rtfkt.com/legal-2C",https://clonex-assets.rtfkt.com/images/1708.png,https://clonex-assets.rtfkt.com/1708,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/1708,2024-02-23T18:45:26.608084,False,False
+order,0x878728288697297f99eed1d3ec65aa5d8527e0cc3385bb47ce0e2457ac3c6ab3,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171230,1709176027,1,0xda7b30b3a72dfe34581809de0a84e2cd29dcc793,,1709171237,False,1352400000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,8874,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #3326,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/8874.png,https://clonex-assets.rtfkt.com/8874,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/8874,2023-03-10T10:46:52.726116,False,False
+order,0x8abf9ec2a17e06e7e47bb4d5f917bf8b3e7fa4a5343da5322adf846eb4502224,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171234,1709172427,1,0xc5948853069a1ddcab794671d365dd64faaa7ab8,,1709171237,False,1480900000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,5932,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #2631,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/5932.png,https://clonex-assets.rtfkt.com/5932,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/5932,2023-07-05T15:06:13.685202,False,False
+order,0xf03526fc78487779f80e62b0c695f61c3f294dd70c245bec29e068cd540d6cd7,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171235,1709174835,1,0xa46490f8e46eeb9a3f5228d386d1fb7ef2d7588b,,1709171237,False,2313400000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,10530,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #17875,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/10530.png,https://clonex-assets.rtfkt.com/10530,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/10530,2023-03-10T10:43:44.519850,False,False
+order,0x07a94009c4d6e5e62e0f066eed8f91cbcb59471e93e8a5fe8d80f05be2da71b0,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171230,1709176023,1,0xda7b30b3a72dfe34581809de0a84e2cd29dcc793,,1709171236,False,1350000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,9645,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #12741,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone without any Murakami trait please read the terms regarding RTFKT - Owned Content here: https://rtfkt.com/legal-2A
+
+You are also entitled to a commercial license, please read the terms to that here: https://rtfkt.com/legal-2C",https://clonex-assets.rtfkt.com/images/9645.png,https://clonex-assets.rtfkt.com/9645,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/9645,2024-02-17T03:32:26.096916,False,False
+order,0x2885ad43dc8a38d97674283be17c27a5e1c1abf1041274ec2be5d79ab731726f,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171236,1709173936,1,0x0f006581eb201aa7352c1b24cf1bf8a70aa2ae3d,,1709171236,False,1150000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,5135,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #15303,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone without any Murakami trait please read the terms regarding RTFKT - Owned Content here: https://rtfkt.com/legal-2A
+
+You are also entitled to a commercial license, please read the terms to that here: https://rtfkt.com/legal-2C",https://clonex-assets.rtfkt.com/images/5135.png,https://clonex-assets.rtfkt.com/5135,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/5135,2023-03-10T10:54:20.469113,False,False
+order,0xbd941e8f7a13c165042fd25ef630a46fc16d1827d6aef4cb4964d86352ee2524,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171235,1709176035,1,0xa46490f8e46eeb9a3f5228d386d1fb7ef2d7588b,,1709171236,False,2205200000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,7131,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #8310,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/7131.png,https://clonex-assets.rtfkt.com/7131,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/7131,2022-12-15T05:15:08.465360,False,False
+order,0x5fff1b88e165f1daa43a0677b45190390e7388b29efcbcb97e71b4982cc063d3,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171235,1709173935,1,0x0f006581eb201aa7352c1b24cf1bf8a70aa2ae3d,,1709171235,False,1150000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,14656,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #8359,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone without any Murakami trait please read the terms regarding RTFKT - Owned Content here: https://rtfkt.com/legal-2A
+
+You are also entitled to a commercial license, please read the terms to that here: https://rtfkt.com/legal-2C",https://clonex-assets.rtfkt.com/images/14656.png,https://clonex-assets.rtfkt.com/14656,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/14656,2023-03-10T10:28:05.274499,False,False
+order,0x1119ecd66ce57a1e2348ee4b03ad9c11b9fea5368c2e3470b6e4260b3f7d7447,trait_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171235,1709171895,1,0xe3f6314f0325ea0d0e49277068adfe513c1e9561,,1709171235,False,1257400000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,,,,,,,,,,,,
+order,0x9c24b28af29711d36db1ae7be4af9e332d2d430b051b57ce2f835ebfd867c9ee,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171234,1709173934,1,0x0f006581eb201aa7352c1b24cf1bf8a70aa2ae3d,,1709171234,False,1150000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,5132,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #11877,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone without any Murakami trait please read the terms regarding RTFKT - Owned Content here: https://rtfkt.com/legal-2A
+
+You are also entitled to a commercial license, please read the terms to that here: https://rtfkt.com/legal-2C",https://clonex-assets.rtfkt.com/images/5132.png,https://clonex-assets.rtfkt.com/5132,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/5132,2022-12-15T05:14:43.574115,False,False
+order,0xc3133094967b64c2625906d2706915ab1092c035705e9815f8a823741a2395a7,trait_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171234,1709171894,1,0xe3f6314f0325ea0d0e49277068adfe513c1e9561,,1709171234,False,1257400000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,,,,,,,,,,,,
+order,0x912b5329b054a6701c5754ae59b29cc23b460bbbc19cbc90aa37e3caf041ccae,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171013,1709173704,1,0x9b16926e59e23de20eb6229c30cb4d975759fda7,,1709171234,False,1635000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,652,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #13771,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/652.png,https://clonex-assets.rtfkt.com/652,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/652,2023-05-09T19:05:38.146094,False,False
+order,0x45359ae5dfdf0b5418aad662dde889b59ec5a90d0d3595c6c454bbf48121446b,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171230,1709172429,1,0xc5948853069a1ddcab794671d365dd64faaa7ab8,,1709171234,False,1635300000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,404,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #19660,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/404.png,https://clonex-assets.rtfkt.com/404,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/404,2023-03-10T10:55:53.438917,False,False
+order,0x92a5f45d2f0ec0a470790f0425bba68a6edc3bd645ddb402bcb6bd44bee122e3,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171229,1709176021,1,0xda7b30b3a72dfe34581809de0a84e2cd29dcc793,,1709171234,False,1300000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,5189,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #11937,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/5189.png,https://clonex-assets.rtfkt.com/5189,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/5189,2023-03-10T10:54:44.685347,False,False
+order,0xa6ab2ac15c84b279af49c520da8e8242ce47ea98a210016ef0332d5868d17af1,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171233,1709173933,1,0x0f006581eb201aa7352c1b24cf1bf8a70aa2ae3d,,1709171234,False,1150000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,14654,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #12487,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone without any Murakami trait please read the terms regarding RTFKT - Owned Content here: https://rtfkt.com/legal-2A
+
+You are also entitled to a commercial license, please read the terms to that here: https://rtfkt.com/legal-2C",https://clonex-assets.rtfkt.com/images/14654.png,https://clonex-assets.rtfkt.com/14654,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/14654,2023-03-10T10:28:02.177109,False,False
+order,0xd3b22079dcb771ce8cac0232e39ba9e3f20ee745f8188dee3f4b8260cd349007,trait_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171233,1709171893,1,0xe3f6314f0325ea0d0e49277068adfe513c1e9561,,1709171233,False,1147200000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,,,,,,,,,,,,
+order,0xcec4554a2e4f548c51d9290d5aab6b329cedb4b8b53703ca6df19e9d5cf95b5d,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171011,1709173700,1,0x9b16926e59e23de20eb6229c30cb4d975759fda7,,1709171233,False,1635000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,1522,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #16888,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/1522.png,https://clonex-assets.rtfkt.com/1522,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/1522,2023-03-21T15:22:44.077844,False,False
+order,0xd9430f279d7b5f52eced4d16e36681199f4b6269ab15c8d98bbb4127f29f0b9b,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171232,1709172132,1,0xa378658c24a1f83081a223ef8ab51ea356c8ccef,,1709171233,False,1740200000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,8570,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #17479,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone without any Murakami trait please read the terms regarding RTFKT - Owned Content here: https://rtfkt.com/legal-2A
+
+You are also entitled to a commercial license, please read the terms to that here: https://rtfkt.com/legal-2C",https://clonex-assets.rtfkt.com/images/8570.png,https://clonex-assets.rtfkt.com/8570,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/8570,2023-12-27T19:02:44.234372,False,False
+order,0x728b52260f8dfc2d7c1d38e0791ab452b8bd4269a6ac84573746d4fd2059491e,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171232,1709172132,1,0xa64c97e0dafd49012f73392fb34af1df7aa2f995,,1709171233,False,3213600000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,7462,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #15009,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/7462.png,https://clonex-assets.rtfkt.com/7462,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/7462,2023-03-10T10:49:34.948702,False,False
+order,0x1325b9836f5dba8cbe36f2684098b4cb54b0bf3e80207377c0578eb7637cfea1,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171232,1709173932,1,0x0f006581eb201aa7352c1b24cf1bf8a70aa2ae3d,,1709171233,False,1150000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,5131,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #6804,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone without any Murakami trait please read the terms regarding RTFKT - Owned Content here: https://rtfkt.com/legal-2A
+
+You are also entitled to a commercial license, please read the terms to that here: https://rtfkt.com/legal-2C",https://clonex-assets.rtfkt.com/images/5131.png,https://clonex-assets.rtfkt.com/5131,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/5131,2022-12-15T05:14:42.046193,False,False
+order,0xa6df180005396e35495a8cab5064294a215d688d375baa5bd0d8255fdc527dfc,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171231,1709174831,1,0xa46490f8e46eeb9a3f5228d386d1fb7ef2d7588b,,1709171232,False,2313400000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,8438,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #1278,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/8438.png,https://clonex-assets.rtfkt.com/8438,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/8438,2022-12-15T05:15:21.374161,False,False
+order,0x022cbe50dbeb8c5798e5ea7268989a03ff8988a083157447d775bad18a4164c0,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171231,1709172131,1,0x8a527369df868cc46e7f781e6ae55bb278507e4e,,1709171232,False,3127200000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,5401,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #2066,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone without any Murakami trait please read the terms regarding RTFKT - Owned Content here: https://rtfkt.com/legal-2A
+
+You are also entitled to a commercial license, please read the terms to that here: https://rtfkt.com/legal-2C",https://clonex-assets.rtfkt.com/images/5401.png,https://clonex-assets.rtfkt.com/5401,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/5401,2022-12-15T05:14:45.600843,False,False
+order,0x8e1da1ed74e6a279857e3d51be9b6a5c3983004abe746bf2bcafb11950ed120a,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171231,1709172131,1,0xa378658c24a1f83081a223ef8ab51ea356c8ccef,,1709171232,False,1311200000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,4975,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #439,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/4975.png,https://clonex-assets.rtfkt.com/4975,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/4975,2022-12-15T05:14:40.557440,False,False
+order,0xf77cb5513ddcf72adf9c3edd83ee7c500789a06a63026b9c6a63d2b70a56ab8e,trait_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171231,1709171891,1,0xe3f6314f0325ea0d0e49277068adfe513c1e9561,,1709171232,False,1147200000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,,,,,,,,,,,,
+order,0xbf21691c3f5a86245242f482cb7df6addd3db4ac9454cb75f2784d8828e0178f,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171203,1709174803,1,0x0c32c9f7ed270ce972c8f23b6d56dcf702e18654,,1709171232,False,2137100000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,8356,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #13520,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/8356.png,https://clonex-assets.rtfkt.com/8356,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/8356,2022-12-15T05:15:20.816211,False,False
+order,0x016869ecfff964bc1c4855d446ea4cfc0fae10c69359022f70c5003b7adf8c27,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171231,1709172131,1,0xa64c97e0dafd49012f73392fb34af1df7aa2f995,,1709171232,False,2801700000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,11490,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #16646,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/11490.png,https://clonex-assets.rtfkt.com/11490,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/11490,2022-12-15T05:15:56.544888,False,False
+order,0x58ed182040b52e00bbbfc4257136c3ff02c0727b2a2eaac96a8677066e9fa2ca,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171231,1709172131,1,0x672a5f9e70d865000a59f25dcd73dceb69b42d40,,1709171232,False,2428600000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,3,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #3,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/3.png,https://clonex-assets.rtfkt.com/3,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/3,2023-03-10T10:54:20.106608,False,False
+order,0x06e64a991832cba8ec2d582b083f6142d2bd5ca8b1f2d7f0435cf8122a7919c7,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171231,1709173931,1,0x0f006581eb201aa7352c1b24cf1bf8a70aa2ae3d,,1709171232,False,1150000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,14649,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #3423,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone without any Murakami trait please read the terms regarding RTFKT - Owned Content here: https://rtfkt.com/legal-2A
+
+You are also entitled to a commercial license, please read the terms to that here: https://rtfkt.com/legal-2C",https://clonex-assets.rtfkt.com/images/14649.png,https://clonex-assets.rtfkt.com/14649,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/14649,2023-03-10T10:28:05.562034,False,False
+order,0x6663f6fdeac383010f9aa61bc1b16db5785dbcc5e05d9c792e8bd26ceeaca830,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171231,1709172131,1,0x8a527369df868cc46e7f781e6ae55bb278507e4e,,1709171232,False,3234800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,17178,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #16307,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/17178.png,https://clonex-assets.rtfkt.com/17178,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/17178,2023-03-10T09:50:53.680789,False,False
+order,0xd9910db752b11846e69436f26f706bba7c54cf619e5edc989fee665a3a921666,trait_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171231,1709171831,1,0x4f59ce7bb4777b536f09116b66c95a5d1ea8a8e6,,1709171232,False,1073200000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,,,,,,,,,,,,
+order,0xc8fc5c186083faa5155bf1c4f1e8643410f993aef07014e7ff50bca0916a2b58,trait_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171230,1709171830,1,0x4f59ce7bb4777b536f09116b66c95a5d1ea8a8e6,,1709171231,False,1065300000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,,,,,,,,,,,,
+order,0x10b250d3c7d01d30bd865ca40c2ffaa078c401dd246588989bc8fe844fe5edcf,trait_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171231,1709171891,1,0xe3f6314f0325ea0d0e49277068adfe513c1e9561,,1709171231,False,1262900000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,,,,,,,,,,,,
+order,0x24bea58c94aaf5dbeb61fcd19e7eb89b224a0731b2e251cfa9b00b2b5bce8d2c,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171228,1709172428,1,0x038b97d549bf4d3cfa4e116a7f6ed257249001c5,,1709171231,False,3199800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,1708,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #10275,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone without any Murakami trait please read the terms regarding RTFKT - Owned Content here: https://rtfkt.com/legal-2A
+
+You are also entitled to a commercial license, please read the terms to that here: https://rtfkt.com/legal-2C",https://clonex-assets.rtfkt.com/images/1708.png,https://clonex-assets.rtfkt.com/1708,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/1708,2024-02-23T18:45:26.608084,False,False
+order,0x2380a371c4f3e12cc5d51ecd11362115a6916c480e974a4a30358924beac5264,trait_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171231,1709171891,1,0xe3f6314f0325ea0d0e49277068adfe513c1e9561,,1709171231,False,1073100000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,,,,,,,,,,,,
+order,0x924c70399fe0376a94feced29187d2184456993ae55c6a707df0422371f597d5,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171230,1709173930,1,0x0f006581eb201aa7352c1b24cf1bf8a70aa2ae3d,,1709171231,False,1150000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,5120,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #14827,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone without any Murakami trait please read the terms regarding RTFKT - Owned Content here: https://rtfkt.com/legal-2A
+
+You are also entitled to a commercial license, please read the terms to that here: https://rtfkt.com/legal-2C",https://clonex-assets.rtfkt.com/images/5120.png,https://clonex-assets.rtfkt.com/5120,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/5120,2022-12-15T05:14:42.364392,False,False
+order,0xc1e32de905abcbac7786d75474f144a22a36535e7591a1933b6a4b42e1e8a523,trait_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171229,1709171829,1,0xabbcc02888e17e7940d5efa21d3e6ef14af7ee21,,1709171231,False,1065200000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,,,,,,,,,,,,
+order,0x75fbca7eb18767906859c72751e338a27a2b750147810df33aa58373aee2aa1c,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171223,1709176019,1,0xda7b30b3a72dfe34581809de0a84e2cd29dcc793,,1709171230,False,1352400000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,8408,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #2008,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/8408.png,https://clonex-assets.rtfkt.com/8408,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/8408,2022-12-15T05:15:21.746604,False,False
+order,0x1dc8d218151599c4ec0e9a3b7f5ecb3b7017a7a10b216a6f63056539e49b4f8f,trait_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171227,1709171887,1,0x0f3cfa2b844b4dc28ba67cbbd0c2cae8553aab7f,,1709171230,False,1257300000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,,,,,,,,,,,,
+order,0xa93a910711e43ec3c67d44bbd1e18fe7fe370a0b895dcd569c8cb23f81f5c814,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171229,1709173929,1,0x0f006581eb201aa7352c1b24cf1bf8a70aa2ae3d,,1709171229,False,1150000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,14641,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #12786,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone without any Murakami trait please read the terms regarding RTFKT - Owned Content here: https://rtfkt.com/legal-2A
+
+You are also entitled to a commercial license, please read the terms to that here: https://rtfkt.com/legal-2C",https://clonex-assets.rtfkt.com/images/14641.png,https://clonex-assets.rtfkt.com/14641,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/14641,2023-03-10T10:28:09.373748,False,False
+order,0xf0053b6feac4c3f2e9698d063fbcae0f69e21311a8af1da979170689021975d0,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171228,1709176028,1,0xa46490f8e46eeb9a3f5228d386d1fb7ef2d7588b,,1709171229,False,2205300000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,5983,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #15431,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/5983.png,https://clonex-assets.rtfkt.com/5983,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/5983,2023-02-17T02:39:31.292768,False,False
+order,0x90e7f3d27e7296210f87898bda2d64f3c7c90ff594cc9fd5ce67d278f28f6ff2,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171228,1709173928,1,0x0f006581eb201aa7352c1b24cf1bf8a70aa2ae3d,,1709171229,False,1150000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,5099,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #3140,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone without any Murakami trait please read the terms regarding RTFKT - Owned Content here: https://rtfkt.com/legal-2A
+
+You are also entitled to a commercial license, please read the terms to that here: https://rtfkt.com/legal-2C",https://clonex-assets.rtfkt.com/images/5099.png,https://clonex-assets.rtfkt.com/5099,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/5099,2023-03-10T10:54:09.229237,False,False
+order,0xe0adaa68ba6fc2dd2d898382da7678ed588f16332ec33230c73ed2eed3144f31,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171227,1709174827,1,0xa46490f8e46eeb9a3f5228d386d1fb7ef2d7588b,,1709171229,False,2380800000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,3350,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #17216,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/3350.png,https://clonex-assets.rtfkt.com/3350,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/3350,2022-12-15T05:14:22.301937,False,False
+order,0x12ac62d6592737173846786072310b11b37845a6cd4c46737ba7fe6acbefa0f6,trait_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171227,1709171887,1,0x0f3cfa2b844b4dc28ba67cbbd0c2cae8553aab7f,,1709171228,False,1257300000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,,,,,,,,,,,,
+order,0x1c51f1ccf8088ff1ccee2b2db1f0c55428fc5d83bf7031f07d3a8a577c5ee3e7,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171199,1709172971,1,0x0c32c9f7ed270ce972c8f23b6d56dcf702e18654,,1709171228,False,2393400000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,15496,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #3243,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/15496.png,https://clonex-assets.rtfkt.com/15496,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/15496,2022-12-15T05:16:40.671819,False,False
+order,0x182fce5095eed1627935c72758e82a47b32fc4cd42a9b4cfba4e024d8f75edfb,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171209,1709175984,1,0x5deccd005df66cdd2f0b668610709e562eb3a00e,,1709171227,False,1729000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,8570,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #17479,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone without any Murakami trait please read the terms regarding RTFKT - Owned Content here: https://rtfkt.com/legal-2A
+
+You are also entitled to a commercial license, please read the terms to that here: https://rtfkt.com/legal-2C",https://clonex-assets.rtfkt.com/images/8570.png,https://clonex-assets.rtfkt.com/8570,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/8570,2023-12-27T19:02:44.234372,False,False
+order,0x3b7ea586196732cd3d99cc9838f07c6ce4babdb6ce2a6bb9874dea7d310c657c,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171219,1709176011,1,0xda7b30b3a72dfe34581809de0a84e2cd29dcc793,,1709171227,False,1300000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,4975,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #439,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.
+
+You are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",https://clonex-assets.rtfkt.com/images/4975.png,https://clonex-assets.rtfkt.com/4975,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/4975,2022-12-15T05:14:40.557440,False,False
+order,0xd397fad9e28bb55d702b713e2b8ea9b296c4f43f5df978fdbc6df964d1d43eb3,item_offer,ethereum,0x00000000000000adc04c56bf30ac9d3c0aaf14dc,1709171227,1709173927,1,0x0f006581eb201aa7352c1b24cf1bf8a70aa2ae3d,,1709171227,False,1150000000000000000,0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,18,WETH,5092,clonex,0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b,erc721,CloneX #18705,"🧬 CLONE X 🧬
+
+20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸
+
+If you own a clone without any Murakami trait please read the terms regarding RTFKT - Owned Content here: https://rtfkt.com/legal-2A
+
+You are also entitled to a commercial license, please read the terms to that here: https://rtfkt.com/legal-2C",https://clonex-assets.rtfkt.com/images/5092.png,https://clonex-assets.rtfkt.com/5092,https://opensea.io/assets/ethereum/0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b/5092,2023-03-10T10:54:03.585552,False,False
