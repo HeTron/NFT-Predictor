@@ -1,0 +1,2 @@
+                Roadmap Summary:
+Preparation: Team setup and research. Data Acquisition: API extraction and temporary CSV storage. Database Storage: Database selection and data importation. Analysis and Modeling: Descriptive statistics, EDA, and predictive modeling. Application Development: UI/UX design and backend integration. Deployment: Web application deployment and monitoring. Presentation and Iteration: Final presentation and feedback incorporation.
