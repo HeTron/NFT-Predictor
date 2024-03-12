@@ -25,7 +25,7 @@ db = client[database_name]
 collection = db[container_name]
 
 # Path to the JSON file that contains your data
-json_file_path = "E:\\4GeeksProjects\\Final_Project\\NFT_Predictor delete soon\\data\\raw\\bored_ape_yacht_club_data.json"
+json_file_path = "E:\\4GeeksProjects\\Final_Project\\NFT_Predictor_delete_soon\\data\\raw\\bored_ape_yacht_club_data.json"
 
 # Open the JSON file and load its content
 with open(json_file_path, 'r') as file:

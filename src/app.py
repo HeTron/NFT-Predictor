@@ -1,60 +1,40 @@
-from flask import Flask, jsonify
-import requests
-import pandas as pd
+from flask import Flask, render_template, request, jsonify
+from builtins import FileNotFoundError
+import json
 
-app = Flask(__name__)
+app = Flask(__name__, static_url_path='/static', template_folder='../templates')
 
-# Function to fetch data from an API
-def fetch_api_data(url, headers=None):
-    response = requests.get(url, headers=headers)
-    if response.status_code == 200:
-        return response.json()
-    else:
-        print(f"Failed to fetch data from {url}")
-        return {}
+@app.route('/')
+def home():
+    return render_template('index.html')
 
-# Assuming these are your API URLs and headers
-url1 = "https://api.opensea.io/api/v2/collections/mutant-ape-yacht-club/stats"
-url2 = "https://api.opensea.io/api/v2/collections/mutant-ape-yacht-club"
-url3 = "https://api.opensea.io/api/v2/events/collection/mutant-ape-yacht-club"
-headers1 = {"accept": "application/json", "x-api-key": "your_api_key"}
-headers2 = {"accept": "application/json", "x-api-key": "your_api_key"}
-headers3 = {"accept": "application/json", "x-api-key": "your_api_key"}
+@app.route('/api/nfts')
+def get_nfts():
+    with open('data/raw/bored_ape_yacht_club_data.json') as file:
+        data = json.load(file)
+        nfts = data['nfts']
+        return jsonify(nfts)
 
-@app.route('/api1_stats')
-def api1_stats():
-    data = fetch_api_data(url1, headers1)
-    df_total = pd.DataFrame([data['total']])
-    df_intervals = pd.DataFrame(data['intervals'])
-    # Combine and return as JSON
-    combined = pd.concat([df_total, df_intervals], axis=1)
-    return combined.to_json(orient='records')
-
-@app.route('/api2_collection')
-def api2_collection():
-    data = fetch_api_data(url2, headers2)
-    collection_fields = ['collection', 'name', 'description', 'image_url', 'banner_image_url', 'owner', 'category', 'is_disabled', 'is_nsfw', 'trait_offers_enabled', 'collection_offers_enabled', 'opensea_url', 'project_url', 'wiki_url', 'discord_url', 'telegram_url', 'twitter_username', 'instagram_username', 'total_supply', 'created_date']
-    df_collection = pd.DataFrame([{field: data.get(field, '') for field in collection_fields}])
-    return df_collection.to_json(orient='records')
-
-@app.route('/api3_events')
-def api3_events():
-    data = fetch_api_data(url3, headers3)
-    events_normalized = normalize_events(data['asset_events'])
-    df_events = pd.DataFrame(events_normalized)
-    return df_events.to_json(orient='records')
-
-def normalize_events(events):
-    events_normalized = []
-    for event in events:
-        event_data = {k: v for k, v in event.items() if k not in ['nft', 'asset', 'payment', 'criteria']}
-        additional_data = {}
-        for key in ['nft', 'asset', 'payment']:
-            if key in event and event[key] is not None:
-                additional_data.update({f'{key}_{k}': v for k, v in event[key].items()})
-        event_data.update(additional_data)
-        events_normalized.append(event_data)
-    return events_normalized
+@app.route('/predict', methods=['POST'])
+def predict():
+    nft_input = request.form.get('nft_input')
+    try:
+        # Load your NFT data
+        with open('data/raw/bored_ape_yacht_club_data.json', 'r') as file:
+            nfts = json.load(file)['nfts']
+        
+        # Find the NFT by identifier
+        nft_data = next((item for item in nfts if item["identifier"] == nft_input), None)
+        
+        if nft_data:
+            # Process the NFT data and make a prediction
+            prediction = "This NFT will be worth X amount"
+            return render_template('nft_details.html', nft_data=nft_data, prediction=prediction)
+        else:
+            # NFT was not found
+            return jsonify({"message": "NFT not found"}), 404
+    except FileNotFoundError:
+        return jsonify({"message": "Data file not found"}), 500
 
 if __name__ == '__main__':
     app.run(debug=True)

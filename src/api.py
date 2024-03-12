@@ -29,7 +29,7 @@ if not os.path.exists(RAW_DATA_PATH):
     os.makedirs(RAW_DATA_PATH)
 
 # Define a function to fetch data and save it to the raw folder
-def fetch_and_save_collection_data():
+def fetch_and_save_collection_data(limit=200):
     response = requests.get(URL, headers=headers)
     if response.status_code == 200:
         data = response.json()
